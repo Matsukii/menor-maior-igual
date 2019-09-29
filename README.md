@@ -21,11 +21,18 @@ inside prompt:
 
 
 ## Java version
-* run the class
-* use console to send number
 
-* use 'stop' to break the loop
-* use 'show' to show the number
-  
+### Overcomplicated version
+  * run the class
+  * use console to send number
+
+  * use 'stop' to break the loop
+  * use 'show' to show the number
+
+### Simplified
+  * run the class
+  * use the console the send a number 
+  * use "stop" to break loop
+
 
 
